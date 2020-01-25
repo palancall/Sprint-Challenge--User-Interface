@@ -300,13 +300,18 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  padding: 20px 0 0 10px;
+  padding: 20px 0 0 0;
   border-top: 1px dotted black;
 }
 
 .body-img-div {
+  display: flex;
+  flex-wrap: wrap;
   width: 370px;
-  margin-bottom: 50px;
+  height: 420px;
+  justify-content: space-between;
+  margin-bottom: 40px;
+
   border-bottom: 1px dotted black;
 }
 
@@ -328,4 +333,7 @@ body {
 
 footer {
   margin-top: 30px;
+}
+.container {
+  background-color: white;
 }
