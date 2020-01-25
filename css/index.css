@@ -216,6 +216,10 @@ footer {
   width: 100%;
   background: black;
 }
+section {
+  margin: 0;
+  padding: 0;
+}
 
 footer nav {
   width: 60%;
