@@ -1,0 +1,17 @@
+if you were to describe semantic HTML to the next cohort of students, what would you say?
+semantic html is a way to give a page more meaning. it allows for screan readers and other tools to read and identify where they are on the page.
+
+Name two big differences between display: block; and display: inline;.
+display block:
+
+display inline:
+
+What are the 4 areas of the box model?
+border, margin, padding, content
+
+While using flexbox, what axis does the following property work on: align-items: center?
+it works on the cross axis.
+
+Explain why git is valuable to a team of developers.
+it allows a team to share the work on the same project. whith git team are able so save all versions of the project.
+it tracks the precise changes made to the project.
