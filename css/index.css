@@ -237,6 +237,7 @@ footer nav a {
   align-items: baseline;
   margin: 30px 0;
 }
+
 body {
   font-size: 14px;
 }
@@ -293,4 +294,38 @@ body {
 
 .middle-content .boxes .box10 {
   background-color: dodgerblue;
+}
+
+.about-body-div {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding: 20px 0 0 10px;
+  border-top: 1px dotted black;
+}
+
+.body-img-div {
+  width: 370px;
+  margin-bottom: 50px;
+  border-bottom: 1px dotted black;
+}
+
+.about-div {
+  padding: 0 20px 20px 20px;
+}
+
+.bottom-div {
+  padding-left: 20px;
+}
+
+.body-img-div a {
+  text-decoration: none;
+  padding: 5px 20px;
+  border: 1px solid black;
+  color: black;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 30px;
 }
