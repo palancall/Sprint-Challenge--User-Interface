@@ -253,6 +253,11 @@ body {
   font-size: 14px;
   color: black;
 }
+.nav a:hover {
+  padding: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
 
 .jumbo-jpg {
   margin: 20px 0;
